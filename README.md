@@ -1,5 +1,5 @@
 🌱
-hi i am new to github and i am learning to share codes
+hi i am new to github 
 
 
 <!---
