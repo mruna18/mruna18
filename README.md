@@ -33,9 +33,9 @@ Here are a few projects I'm proud of — more coming soon!
 | [FastCMS](https://github.com/mruna18/FastCMS) | Lightweight blog CMS using FastAPI and Markdown | FastAPI, Python, HTML |
 | [Dev-Hub](https://github.com/mruna18/Dev-Hub) | Developer content hub (pre-internship project) | Python, Flask (upcoming) |
 | Real-Time Dashboard | Stock data + AI Insights in real-time | Python, FastAPI, WebSockets |
--->
----
 
+---
+-->
 ### 📝 Recent Blogs
 - [My Learning Django Experience: A Beginner’s Journey](https://mrunaliparsekar.hashnode.dev/my-learning-django-experience-a-beginners-journey)
 - [How I Started Learning SQL (What Helped Me the Most)](https://mrunaliparsekar.hashnode.dev/how-i-started-learning-sql-what-helped-me-the-most)
