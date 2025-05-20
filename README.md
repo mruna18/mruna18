@@ -39,7 +39,7 @@ Here are a few projects I'm proud of — more coming soon!
 ### 📝 Recent Blogs
 - [My Learning Django Experience: A Beginner’s Journey](https://mrunaliparsekar.hashnode.dev/my-learning-django-experience-a-beginners-journey)
 - [How I Started Learning SQL (What Helped Me the Most)](https://mrunaliparsekar.hashnode.dev/how-i-started-learning-sql-what-helped-me-the-most)
-- 
+- [Benefits Of Choosing Python As Your Go-To Programming Language](https://mrunaliparsekar.hashnode.dev/benefits-of-choosing-python-as-your-go-to-programming-language)
 
 ---
 
