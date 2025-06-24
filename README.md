@@ -45,7 +45,7 @@ Here are a few projects I'm proud of — more coming soon!
 ---
 
 ### 📬 Let's Connect!
-- 📌 [LinkedIn](https://www.linkedin.com/in/mrunalini18/)
+- 📌 [LinkedIn]([https://www.linkedin.com/in/mrunalini18/](https://www.linkedin.com/in/mrunali-parsekar/))
 - 🧠 [My Blogs](https://mrunaliparsekar.hashnode.dev/)
 <!--- - ✨ In progress: Personal Portfolio Website-->
 
