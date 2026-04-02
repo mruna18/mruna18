@@ -71,16 +71,6 @@ Here are a few projects I'm proud of — more coming soon!
 
 ---
 
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mruna18/mruna18/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mruna18/mruna18/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/mruna18/mruna18/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ### 📬 Let's Connect!
 - 📌 [LinkedIn](https://www.linkedin.com/in/mrunali-parsekar/)
 - 🧠 [My Blogs](https://mrunaliparsekar.hashnode.dev/)
