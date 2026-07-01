@@ -66,7 +66,7 @@ Currently working with Django REST Framework, FastAPI, MySQL, Redis, Docker, and
 ### SpendWise
 
 * Personal finance tracker for tracking expenses and managing spending.
-* **Live:** [spendwise](https://spendwise-rho-ten.vercel.app/login)
+* **Live:** [spendwise](https://spendwise-rho-ten.vercel.app/)
 * **Stack:** React, Django
 
 ---
